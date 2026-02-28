@@ -51,5 +51,5 @@ Power BI | SQL | Tableau | Excel | Python | Data Analytics
 ---
 
 ## Connect With Me
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+LinkedIn: https://www.linkedin.com/in/ankit-jayara-70014b1b2/
 GitHub: https://github.com/ankitjayara
