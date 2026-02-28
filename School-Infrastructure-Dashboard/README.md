@@ -1,16 +1,36 @@
-# School Infrastructure & PTR Analysis
+# Education Analytics Dashboard Suite
 
-## Business Problem
-Education authorities require visibility into infrastructure and staffing levels.
+## Overview
+Designed a multi-page Power BI analytics solution to monitor
+school infrastructure, student performance and attendance trends
+for education authorities.
 
-## Solution
-Designed Power BI dashboard analyzing PTR ratio, district performance and teacher retirement planning.
+---
 
-## Features
-- District filtering
-- KPI monitoring
+## Dashboard Pages
+
+### 1️⃣ Infrastructure & PTR Analysis
+- School distribution analysis
+- Student-teacher ratio monitoring
+- Teacher retirement forecasting
 - Infrastructure scoring
-- Retirement forecasting
+
+### 2️⃣ Student Performance Analysis
+- Academic performance trends
+- District comparison
+- Performance segmentation
+
+### 3️⃣ Attendance vs Performance
+- Attendance impact on student outcomes
+- Performance correlation analysis
+
+---
 
 ## Tools Used
-Power BI, DAX, Power Query
+Power BI, DAX, Data Modeling, Power Query
+
+---
+
+## Business Impact
+Helps decision-makers identify understaffed regions,
+improve resource allocation and enhance student outcomes.
