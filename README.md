@@ -1,37 +1,55 @@
-# Ankit Jayara — Business Intelligence Portfolio
+# Ankit Jayara — Business Intelligence Analyst Portfolio
 
-Business Intelligence Analyst with 2.9 years of experience in Power BI, SQL, Tableau and Pharma Analytics.
+Business Intelligence Analyst with 2.9 years of experience in Power BI, SQL, Tableau and Pharma Analytics, specializing in dashboard development, data modeling and business performance analytics.
 
 ---
 
 ## Skills
 - Power BI
 - SQL (Snowflake)
-- DAX
-- Data Modeling
+- DAX & Data Modeling
 - Dashboard Development
 - Data Visualization
+- Tableau
 - Excel & MIS Reporting
 
 ---
 
 ## Portfolio Projects
 
-### 📊 School Infrastructure & PTR Analysis
-Power BI dashboard analyzing school infrastructure, staffing distribution and student-teacher ratio.
+### 🎓 Education Analytics Dashboard Suite
+Multi-page Power BI analytics solution monitoring school infrastructure, student performance and attendance impact analysis.
 
-### 💻 Software Renewals Dashboard
-IT analytics dashboard tracking vendor renewals, budget vs actual value and savings opportunities.
-
-### 📈 Sales & Profit Dashboard
-Executive dashboard monitoring revenue, profit margin and product performance.
-
-### 📊 Lead Performance MIS Dashboard
-Operational dashboard tracking lead funnel performance and team productivity.
+🔗 [View Project](./Education-Analytics-Dashboard)
 
 ---
 
-## Tools
-Power BI | SQL | Tableau | Excel | Python
+### 💻 Software Renewals Analytics Dashboard
+Enterprise IT analytics dashboard tracking software renewals, vendor performance, budget utilization and savings opportunities.
 
-📫 Connect with me on LinkedIn
+🔗 [View Project](./Software-Renewals-Dashboard)
+
+---
+
+### 📈 Sales & Profit Analytics Dashboard
+Executive business dashboard analyzing revenue trends, profit margin and product performance KPIs.
+
+🔗 [View Project](./Sales-Profit-Dashboard)
+
+---
+
+### 📊 Lead Performance MIS Dashboard
+Operational analytics dashboard tracking lead generation, conversion performance and team productivity.
+
+🔗 [View Project](./Lead-Performance-MIS)
+
+---
+
+## Tools & Technologies
+Power BI | SQL | Tableau | Excel | Python | Data Analytics
+
+---
+
+## Connect With Me
+LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+GitHub: https://github.com/ankitjayara
