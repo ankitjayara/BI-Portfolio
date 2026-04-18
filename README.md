@@ -45,6 +45,13 @@ Operational analytics dashboard tracking lead generation, conversion performance
 
 ---
 
+### 📊 Sales & Opportunities Analysis Dashboard  
+Interactive Power BI dashboard analyzing sales pipeline, opportunity stages, and revenue performance.
+
+🔗 [View Project](./Sales-Opportunities-Dashboard)
+
+---
+
 ## Tools & Technologies
 Power BI | SQL | Tableau | Excel | Python | Data Analytics
 
