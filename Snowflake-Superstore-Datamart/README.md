@@ -11,7 +11,7 @@ Built a Snowflake datamart using a star schema to enable efficient querying and 
 ## Data Model
 
 * Fact Table: FACT_SUPERSTORE
-* Dimensions: Customer, Product, Date, Geography
+* Dimensions: Customer, Product, Date, Geography, Category and Segment.
 
 ## Features
 
@@ -26,7 +26,7 @@ Snowflake, SQL, Data Modeling, Power BI
 
 ## Data Model Preview
 
-![Data Model](images/data_model.png)
+![Data Model](data_model.png)
 
 ## Snowflake Query Example
 
