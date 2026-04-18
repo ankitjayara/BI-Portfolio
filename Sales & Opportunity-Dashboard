@@ -1,0 +1,25 @@
+Overview:
+Designed an interactive dashboard to analyze sales performance, opportunity stages, and revenue trends for better business decision-making.
+
+Business Problem:
+Lack of visibility into sales pipeline performance and producer contribution made it difficult to identify bottlenecks and optimize revenue generation.
+
+Key Features:
+
+KPI tracking (Revenue, Opportunities, Closed Won, Exceeded Revenue)
+Stage-wise opportunity distribution
+
+Producer performance analysis
+Monthly revenue trend visualization
+Interactive filtering (Stage, Producer, Date)
+
+Key Insights:
+
+Closed Won stage contributes the highest revenue share (46%)
+Top producer drives a significant portion of revenue
+Revenue shows fluctuation with a noticeable dip mid-year
+Strong early-stage pipeline indicates future growth potential.
+
+
+Tools Used:
+Power BI, DAX, Power Query, Data Modeling
