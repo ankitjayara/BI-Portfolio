@@ -25,7 +25,7 @@ Built a Snowflake datamart using a star schema to enable efficient querying and 
 Snowflake, SQL, Data Modeling, Power BI
 
 ## Data Model Preview  
-![Data Model](images/datamodel.png)
+![Data Model](images/data_model.png)
 
 ### Fact  
 ![fact](images/Fact.png)
