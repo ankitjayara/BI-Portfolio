@@ -30,4 +30,4 @@ Power BI, DAX, Power Query, Data Modeling
 
 ## Dashboard Preview
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](sales_dashboard.pn)
