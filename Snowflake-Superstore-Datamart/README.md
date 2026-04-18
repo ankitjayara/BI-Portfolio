@@ -42,3 +42,9 @@ Snowflake, SQL, Data Modeling, Power BI
 
 ### Geography Dimension  
 ![Geography](images/dim_geography.png)
+
+### Category Dimension  
+![Category](images/dim_category.png)
+
+### Segment Dimension  
+![Segment](images/dim_segment.png)
