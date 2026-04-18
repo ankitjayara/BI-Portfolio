@@ -24,11 +24,9 @@ Built a Snowflake datamart using a star schema to enable efficient querying and 
 
 Snowflake, SQL, Data Modeling, Power BI
 
-## Data Model Preview
+## Data Model Preview  
+![Data Model](./Snowflake-Superstore-Datamart/data model.png)
 
-![Data Model](data_model.png)
-
-## Snowflake Query Example
-
-![Snowflake](images/snowflake_query.png)
+## Snowflake Query Example  
+![Snowflake](./Snowflake-Superstore-Datamart/Fact.png)
 
