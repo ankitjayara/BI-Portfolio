@@ -27,7 +27,3 @@ Power BI, DAX, Power Query, Data Modeling
 * Significant dependency on top-performing producer
 * Revenue shows mid-year decline indicating potential seasonality
 * Early-stage opportunities highlight future pipeline potential
-
-## Dashboard Preview
-
-![Sales Dashboard](sales_dashboard.pn)
