@@ -1,62 +1,38 @@
-# Ankit Jayara — Business Intelligence Analyst Portfolio
+# Education Analytics Dashboard Suite
 
-Business Intelligence Analyst with 2.9 years of experience in Power BI, SQL, Tableau and Pharma Analytics, specializing in dashboard development, data modeling and business performance analytics.
-
----
-
-## Skills
-- Power BI
-- SQL (Snowflake)
-- DAX & Data Modeling
-- Dashboard Development
-- Data Visualization
-- Tableau
-- Excel & MIS Reporting
+## Overview
+Developed a multi-page Power BI analytics solution to monitor
+school infrastructure, student performance, and attendance trends
+for education authorities and decision-makers.
 
 ---
 
-## Portfolio Projects
+## Dashboard Pages
 
-### 🎓 Education Analytics Dashboard Suite
-Multi-page Power BI analytics solution monitoring school infrastructure, student performance and attendance impact analysis.
+### 1️⃣ Infrastructure & PTR Analysis
+- School distribution analysis
+- Student–Teacher Ratio (PTR) monitoring
+- Teacher retirement forecasting
+- Infrastructure performance scoring
 
-🔗 [View Project](./Education-Analytics-Dashboard)
+### 2️⃣ Student Performance Analysis
+- Academic performance trends
+- District and school-level comparison
+- Learning level segmentation analysis
 
----
-
-### 💻 Software Renewals Analytics Dashboard
-Enterprise IT analytics dashboard tracking software renewals, vendor performance, budget utilization and savings opportunities.
-
-🔗 [View Project](./Software-Renewals-Dashboard)
-
----
-
-### 📈 Sales & Profit Analytics Dashboard
-Executive business dashboard analyzing revenue trends, profit margin and product performance KPIs.
-
-🔗 [View Project](./Sales-Profit-Dashboard)
+### 3️⃣ Attendance vs Performance Analysis
+- Attendance impact on student outcomes
+- Performance correlation analysis
+- Identification of performance risk areas
 
 ---
 
-### 📊 Lead Performance MIS Dashboard
-Operational analytics dashboard tracking lead generation, conversion performance and team productivity.
-
-🔗 [View Project](./Lead-Performance-MIS)
+## Tools Used
+Power BI | DAX | Data Modeling | Power Query
 
 ---
 
-### 📊 Sales & Opportunities Analysis Dashboard  
-Interactive Power BI dashboard analyzing sales pipeline, opportunity stages, and revenue performance.
-
-🔗 [View Project](./Sales-Opportunities-Dashboard)
-
----
-
-## Tools & Technologies
-Power BI | SQL | Tableau | Excel | Python | Data Analytics
-
----
-
-## Connect With Me
-LinkedIn: https://www.linkedin.com/in/ankit-jayara-70014b1b2/
-GitHub: https://github.com/ankitjayara
+## Business Impact
+Enables education stakeholders to identify understaffed regions,
+optimize resource allocation, and improve student learning outcomes
+through data-driven decision-making.
